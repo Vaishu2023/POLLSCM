@@ -8,6 +8,7 @@ public class Coding {
 		System.out.println("Trying Poll SCM");
 		System.out.println("Testing Again");
 		System.out.println("Doing some cahnges");
+		System.out.println("Testing slave");
 	}
 
 }
