@@ -9,6 +9,7 @@ public class Coding {
 		System.out.println("Testing Again");
 		System.out.println("Doing some cahnges");
 		System.out.println("Testing slave");
+		System.out.println("Project trnasfer to slave");
 	}
 
 }
